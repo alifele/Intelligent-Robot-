@@ -1,0 +1,17 @@
+sensors ---> 
+distance, Gyroscope, tilt sensor
+
+
+________________________________________________________________
+hardware ---> 
+Rasspberry-pi using python, ARM Cortex-M series (STM32), AVR (ATMEGA32), Arduino
+
+
+________________________________________________________________
+algorithms ---> 
+Reinforcement learning, Neural Networks, Genetic Algorithms
+
+
+________________________________________________________________
+Extra --->
+Using Sphinx to documente the ROBOT to be provided
